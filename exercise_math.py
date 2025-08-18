@@ -4,7 +4,7 @@ def math():
     num1 = a
     num2 = b
     suma = num1 + num2
-    print("Suma:", suma)
+    print(suma)
     diferencia = num1 - num2
     print(diferencia)
     producto = num1 * num2
